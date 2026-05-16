@@ -1,16 +1,16 @@
-## Hi there 👋
+I'm a Solution Architect at VantageCircle. Most of my work happens
+in the unglamorous middle of platforms — CI/CD pipelines, multi-region
+deployments, the operational scaffolding that has to be safe to change
+while staying out of the way.
 
-<!--
-**subhgogoi/subhgogoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write at [themarginalia.ink](https://themarginalia.ink) — long-form
+essays about practical software, drawn from problems I've spent at
+least a month inside. Infrastructure, AI tooling, debugging stories,
+and other observations from the margins of production.
 
-Here are some ideas to get you started:
+Most of my activity here lives in private repositories at work; what's
+public is incidental. The contribution graph is the honest summary.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+—
+
+**Reach me:** [email](mailto:subhendugogoi@gmail.com) · [themarginalia.ink](https://themarginalia.ink)
